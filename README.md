@@ -1,16 +1,14 @@
-## Hi there 👋
+## olá 🦸‍♂️
 
-<!--
-**Luizlkf/luizlkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e luiz🐴
 
-Here are some ideas to get you started:
+estou estuddando no alura 
+estou se desenvolvendo nos projetos alura
+utilizar este espaço para organização e compartilhamento dos projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## entrar em contato comigo 📧
+
+luiz.ribeiro07@escola.pr.gov.br
+
+
+![](https://tenor.com/pt-BR/view/gta-5-trevor-love-trevor-petpet-gif-10514317170232445438)
